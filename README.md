@@ -51,4 +51,4 @@ But you can host this on any static hosting platform (Not Github Pages tho) <br>
 - Google and the Chromium Project, for the Website design (and Chrome too i guess)
 - UltraViolet ~~STATIC~~ Proxy by these guys: https://github.com/tf7software/UV-Static
 
-- Me, for the Web Ports (duh)
+I DID NOT MAKE THIS. ALL PORTS WERE BY BURNED POPCORN
